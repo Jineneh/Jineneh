@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ JINENE HAMROUNI ✨
+#  JINENE HAMROUNI 
 ### 🚀 Master's Student in Big Data, Analytics & Business Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinene-hamrouni-b38746131/)
